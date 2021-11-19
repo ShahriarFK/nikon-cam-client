@@ -1,3 +1,22 @@
+# Nikon - Cam
+Nikon Cam Shop
+Nikon - Cam  shop is an e-commerce website for Camera.
+
+Live site link here [Nikon-Cam Shop](https://nikon-cam.web.app/)
+
+Description
+* Nikon-Cam shop is a platform where someone can find their favourite Camera through online.
+* An user can shop and save for later.
+* In the dashboard section user can see his list of choosen product from he/she can cancel the order also.
+* User can login using e-mail and password.
+* User can review about the website and can give rating about the website.
+* Overall an user can get full experience of an e-commerce website from here.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
